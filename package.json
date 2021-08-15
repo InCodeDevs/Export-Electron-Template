@@ -1,0 +1,19 @@
+{
+  "name": "incode-export-electron-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InCodeDevs/Export-Electron-Template.git"
+  },
+  "author": "The InCode Developers <https://github.com/InCodeDevs>",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/InCodeDevs/Export-Electron-Template/issues"
+  },
+  "homepage": "https://github.com/InCodeDevs/Export-Electron-Template#readme"
+}
