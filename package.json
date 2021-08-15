@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/InCodeDevs/Export-Electron-Template/issues"
   },
-  "homepage": "https://github.com/InCodeDevs/Export-Electron-Template#readme"
+  "homepage": "https://github.com/InCodeDevs/Export-Electron-Template#readme",
+  "devDependencies": {
+    "electron": "^13.1.9",
+    "electron-packager": "^15.3.0"
+  }
 }
