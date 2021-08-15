@@ -17,7 +17,7 @@ const createWindow = () => {
         }
     })
 
-    mainWindow.loadFile("src/resources/index.html");
+    mainWindow.loadFile("src/index.html");
 
     mainWindow.setMenuBarVisibility(false);
 }
